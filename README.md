@@ -21,6 +21,8 @@ An **AI-integrated task management platform** that sorts tasks based on employee
 ### 🔹 [Khetmart](#):  
 A **farm-to-consumer platform** connecting farmers directly to customers, ensuring fair pricing and reducing middlemen.
  
+### 🔹 [Background Remover](#):  
+A **web application** that removes image backgrounds, providing fast and clean results for users.  
 
 ## 🏅 Achievements & Leadership  
 - **Hackathon Experience:**  
