@@ -2,21 +2,40 @@
   Hi there, I'm Palak Lohade👋
 </p>
 
-I’m a **pre-final year Software Engineering student** who loves creating useful and innovative digital solutions. With a strong interest in **frontend development and hackathon participation**, I enjoy working on projects where I can solve problems and bring new ideas to life.  
+I’m a pre-final year Software Engineering student passionate about building impactful digital solutions. I love exploring **Frontend Development, GenAI, and Machine Learning**, always striving to push my limits through projects and hackathons.
 
-- 👀 I’m interested in Frontend development and building apps.
-- 🌱 I’m currently learning React.js and ML.
+### 🚀 About Me:
+- 🔥 Frontend Developer | GenAI Enthusiast
+- 🌱 Currently diving deep into **React.js, Machine Learning, and LLMs**
+- ⚡ Love working on innovative projects and solving real-world problems
+- 💡 Exploring AI-driven solutions and Full-Stack development
 
-### 🛠 Tech Stack
+---
 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50">  <img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50">   
+### 🛠 Tech Stack:
 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50" height="50"><img src="https://img.icons8.com/nolan/64/express-js.png" alt="Express.js" width="50" height="50"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50">
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="50" height="50">
+#### **Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+#### **Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+#### **Tools & Other Technologies:**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!---
-palaklohade/palaklohade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📫 Let's Connect:
+- 🔗 [Twitter](https://twitter.com/palak_codes)
+- 🔗 [LinkedIn](https://linkedin.com/in/palak-lohade-155808269/)
+
+💻 **“Code, Learn, Build, Repeat!”** 
