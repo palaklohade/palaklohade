@@ -1,10 +1,10 @@
 <p align="center">
-  Hi there, I'm Palak Lohade👋
+  Hi there, I'm Palak Lohade
 </p>
 
 I’m a pre-final year Software Engineering student passionate about building impactful digital solutions. I love exploring **Frontend Development, GenAI, and Machine Learning**, always striving to push my limits through projects and hackathons.
 
-### 🚀 About Me:
+###  About Me:
 - 🔥 Frontend Developer | GenAI Enthusiast
 - 🌱 Currently diving deep into **React.js, Machine Learning, and LLMs**
 - ⚡ Love working on innovative projects and solving real-world problems
@@ -38,4 +38,3 @@ I’m a pre-final year Software Engineering student passionate about building im
 - 🔗 [Twitter](https://twitter.com/palak_codes)
 - 🔗 [LinkedIn](https://linkedin.com/in/palak-lohade-155808269/)
 
-💻 **“Code, Learn, Build, Repeat!”** 
