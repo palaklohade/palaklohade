@@ -2,7 +2,7 @@
   Hi there, I'm Palak Lohade
 </p>
 
-I’m a pre-final year Software Engineering student passionate about building impactful digital solutions. I love exploring **Frontend Development, GenAI, and Machine Learning**, always striving to push my limits through projects and hackathons.
+I’m a final year Software Engineering student passionate about building impactful digital solutions. I love exploring **Frontend Development, GenAI, and Machine Learning**, always striving to push my limits through projects and hackathons.
 
 ###  About Me:
 - 🔥 Frontend Developer | GenAI Enthusiast
